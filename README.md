@@ -1,3 +1,7 @@
+# esp8266 digital clock
+
+[![CodeFactor](https://www.codefactor.io/repository/github/1999azzar/esp8266-digital-clock-with-oled-0.96/badge)](https://www.codefactor.io/repository/github/1999azzar/esp8266-digital-clock-with-oled-0.96)
+
 ## Program ini merupakan contoh sederhana tentang cara mengontrol OLED yang terpasang pada ESP8266 dengan menggunakan sebuah tombol. Program ini juga menampilkan waktu NTP pada OLED, yang diperbarui setiap 5 menit sekali.
 
 ### Untuk menjalankan program ini, Anda memerlukan:
